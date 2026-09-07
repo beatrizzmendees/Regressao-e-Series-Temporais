@@ -42,6 +42,3 @@ Entrega da Semana 5 da Capacitação de Ciência de Dados. O notebook reúne tr�
 **Ana Beatriz Mendes de Sousa**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ana-beatriz-mendes-de-sousa)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/beatrizzmendees)
-
-   ```
-4. Execute as células em ordem.
